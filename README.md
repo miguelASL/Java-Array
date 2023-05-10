@@ -1,2 +1,2 @@
 # Java
-Estos son mis primeros ejercicios de Java usando "Arrays".
+These are my first Java exercises using "Arrays".
